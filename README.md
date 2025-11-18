@@ -161,6 +161,6 @@ If you use H3PC.jl in your research, please cite:
 # 🙏 Acknowledgments
 
 - The **Trixi.jl** team for the base solver architecture.  
-- **Jesse Chan** or developing the 2D parabolic solver for the P4est mesh type. 
+- **Jesse Chan** for developing the 2D parabolic solver for the P4est mesh type. 
 - **Khemraj Shukla** for Mutation.jl and the Julia Mutation++ wrapper. 
 - Collaborators and supporting institutions at Brown University DAM.
