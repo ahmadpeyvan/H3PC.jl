@@ -153,7 +153,7 @@ Access is granted on a case-by-case basis.
 
 If you use H3PC.jl in your research, please cite:
 
-> A. Peyvan, G. E. Karniadakis, et al., **H3PC.jl: High-Order Hypersonics & Hyperbolic PDE Code** (2025).  
+> A. Peyvan, K, Shukla, G. Em. Karniadakis, et al., **H3PC: Hypersonic, High-Order, High-Performance Code with Adaptive Mesh Refinement and Real Chemistry** (2025).  
 > Additional references will be provided with source access.
 
 ---
@@ -161,5 +161,6 @@ If you use H3PC.jl in your research, please cite:
 # 🙏 Acknowledgments
 
 - The **Trixi.jl** team for the base solver architecture.  
-- **Khemraj Shukla** for Mutation.jl and the Julia Mutation++ wrapper.  
+- **Jesse Chan** or developing the 2D parabolic solver for the P4est mesh type. 
+- **Khemraj Shukla** for Mutation.jl and the Julia Mutation++ wrapper. 
 - Collaborators and supporting institutions at Brown University DAM.
